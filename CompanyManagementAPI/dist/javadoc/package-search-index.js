@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"AdaptedDataStructures"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"CompanyManagement"},{"l":"DataStructures"},{"l":"DataStructuresInterfaces"},{"l":"Locals"},{"l":"LocalsManagement"},{"l":"RoutesManagement"},{"l":"SellersManagement"}];updateSearchResults();
